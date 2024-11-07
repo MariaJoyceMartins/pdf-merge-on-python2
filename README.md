@@ -10,7 +10,7 @@ A ideia por trás desse projeto surgiu da necessidade de otimizar uma tarefa sim
 
 ## Como foi criado?
 
-Esse projeto foi desenvolvido com **Python**, uma linguagem de programação incrivelmente poderosa, mas de fácil aprendizado, o que a torna perfeita para iniciantes. Utilizei uma biblioteca muito prática chamada **PyPDF2**, que facilita o processo de manipulação de PDFs, permitindo juntar vários arquivos em apenas algumas linhas de código. A experiência de construir esse projeto foi uma excelente oportunidade de aprender e colocar em prática os conhecimentos adquiridos sobre Python.
+Esse projeto foi desenvolvido com **Python**, uma linguagem de programação. Utilizei uma biblioteca muito prática chamada **PyPDF2**, que facilita o processo de manipulação de PDFs, permitindo juntar vários arquivos em apenas algumas linhas de código. A experiência de construir esse projeto foi uma excelente oportunidade de aprender e colocar em prática os conhecimentos adquiridos sobre Python.
 
 ## Qual o meio que foi criado?
 
