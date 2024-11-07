@@ -22,6 +22,4 @@ Esse projeto foi desenvolvido com **Python**, uma linguagem de programação inc
 
 Embora seja um projeto de iniciante, a solução oferece um grande valor no cotidiano. Ela resolve um problema simples de forma rápida e eficaz, sem precisar recorrer a ferramentas externas que podem ser complexas, cheias de anúncios ou até mesmo pagas. A junção de PDFs é algo que pode ser feito em apenas alguns minutos, mas que economiza horas de trabalho no longo prazo. Para quem está começando, é uma excelente introdução à automação de tarefas e uma maneira prática de colocar o Python em ação.
 
-Se você busca uma forma simples e eficiente de juntar arquivos PDF sem depender de serviços externos, este projeto é a solução ideal. E o melhor: é totalmente gratuito e fácil de usar, trazendo muito mais praticidade para o seu dia a dia.
-
 Se você também está começando em Python ou quer automatizar tarefas simples de forma prática, esse projeto é uma excelente forma de aprender e, ao mesmo tempo, resolver um problema real de maneira rápida e eficiente.
