@@ -1,25 +1,25 @@
-# Projeto de Automação de Junção de PDFs em Python
+# PDF Merger Automation Project in Python
 
-## O que é?
+##What is it?
 
-Este é um projeto simples, mas incrivelmente útil, que automatiza a junção de múltiplos arquivos PDF em um único documento. Em vez de perder tempo copiando, colando ou tentando lidar com sites cheios de propagandas e custos extras, a solução que você encontrará aqui faz tudo automaticamente e de forma totalmente eficiente.
+This is a simple but extremely useful project that automates the collection of multiple PDF files into a single document. Instead of wasting time copying, pasting, or trying to deal with websites full of ads and extra costs, the solution you find here does everything automatically and in a totally efficient way.
 
-## Por que foi criado?
+## Why was it created?
 
-A ideia por trás desse projeto surgiu da necessidade de otimizar uma tarefa simples, mas recorrente, no meu dia a dia. Muitas vezes, quando precisava juntar arquivos PDF, acabava recorrendo a sites online — sites que, além de cheios de anúncios, muitas vezes exigem uma versão paga para ter funcionalidades básicas. Eu sabia que poderia criar uma solução que não só economizasse tempo, mas também fosse 100% gratuita, segura e sem complicação.
+The idea behind this project came from the need to improve a simple but recurring task in my daily life. Many times, when I started to merge PDF files, I ended up resorting to online sites — sites that, in addition to being full of ads, often disabled a paid version to have basic functionalities. I knew I could create a solution that not only saved time, but was also 100% free, safe and hassle-free.
 
-## Como foi criado?
+## How was it created?
 
-Esse projeto foi desenvolvido com **Python**, uma linguagem de programação. Utilizei uma biblioteca muito prática chamada **PyPDF2**, que facilita o processo de manipulação de PDFs, permitindo juntar vários arquivos em apenas algumas linhas de código. A experiência de construir esse projeto foi uma excelente oportunidade de aprender e colocar em prática os conhecimentos adquiridos sobre Python.
+This project was developed with **Python**, a programming language. I used a very practical library called **PyPDF2**, which makes it easier to manipulate PDFs, allowing you to merge multiple files in just a few lines of code. The experience of building this project was an excellent opportunity to learn and put into practice the knowledge I had acquired about Python.
 
-## Qual o meio que foi criado?
+## What was the environment used to create the automation?
 
-- **Python**: Utilizei Python, uma linguagem simples de entender e com uma vasta comunidade de apoio, para criar a automação.
-- **VS Code**: O ambiente de desenvolvimento foi o VS Code, que oferece uma interface limpa e intuitiva para programar, além de muitos recursos que facilitam o processo de codificação.
-- **Git**: Usei o Git para versionar o código e garantir que a evolução do projeto fosse bem documentada e fácil de compartilhar.
+- **Python**: Use Python, a language that is easy to understand and has a large community of support, to create the automation.
+- **VS Code**: The VS Code development environment, which offers a clean and intuitive interface for programming, as well as many features that facilitate the transfer process.
+- **Git**: I used Git to version the code and ensure that the project's evolution is well documented and easy to share.
 
-## Por que vale a pena?
+## Why is it worth it?
 
-Embora seja um projeto de iniciante, a solução oferece um grande valor no cotidiano. Ela resolve um problema simples de forma rápida e eficaz, sem precisar recorrer a ferramentas externas que podem ser complexas, cheias de anúncios ou até mesmo pagas. A junção de PDFs é algo que pode ser feito em apenas alguns minutos, mas que economiza horas de trabalho no longo prazo. Para quem está começando, é uma excelente introdução à automação de tarefas e uma maneira prática de colocar o Python em ação.
+Although it is a beginner's project, the solution offers great value in everyday life. It solves a simple problem quickly and effectively, without the need for external tools that can be complex, full of ads or even paid. PDF privacy is something that can be done in just a few minutes, but saves hours of work in the long run. For beginners, it’s a great introduction to task automation and a practical way to put Python into practice.
 
-Se você também está começando em Python ou quer automatizar tarefas simples de forma prática, esse projeto é uma excelente forma de aprender e, ao mesmo tempo, resolver um problema real de maneira rápida e eficiente.
+If you’re new to Python or want to automate simple tasks in a practical way, this project is a great way to learn while solving a real-world problem quickly and efficiently.
