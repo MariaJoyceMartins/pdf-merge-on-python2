@@ -1,6 +1,6 @@
 # PDF Merger Automation Project in Python
 
-##What is it?
+## What is it?
 
 This is a simple but extremely useful project that automates the collection of multiple PDF files into a single document. Instead of wasting time copying, pasting, or trying to deal with websites full of ads and extra costs, the solution you find here does everything automatically and in a totally efficient way.
 
